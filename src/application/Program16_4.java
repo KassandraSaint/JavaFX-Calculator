@@ -1,6 +1,3 @@
-// Kseniia Salko
-// SPC ID 2431072 
-
 package application;
 
 //Importing all the modules
@@ -71,5 +68,3 @@ public class Program16_4 extends Application {
 		launch(args);
 	}
 }
-
-//I worked alone!
